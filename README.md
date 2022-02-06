@@ -1,7 +1,7 @@
 ### Olá ! meu nome é Giovani Franco
 
-- 🌱  Atualmente estou estudando machine learning
-- 🕮  Tenho interesse em ciência de dados, machine learning e deep learning 
+- 🕮 Atualmente estou estudando machine learning
+- 👀 Tenho interesse em ciência de dados, machine learning e deep learning 
 - 😄 Pronomes: ele/dele
 
 <div align="center">
