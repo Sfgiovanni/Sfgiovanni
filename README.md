@@ -2,7 +2,7 @@
 
 - 🕮 Atualmente estou estudando machine learning
 - 👀 Tenho interesse em ciência de dados, machine learning, deep learning e visão computacional 
-- 😄 Pronomes: ele/dele
+
 
 <div align="center">
   <a href="https://github.com/Sfgiovanni">
